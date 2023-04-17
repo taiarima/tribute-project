@@ -7,10 +7,15 @@
 main {
   display: block;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 800px;
   text-align: center;
 }
 
 #image {
   margin: 0 -50%;
+}
+
+#tribute-info p {
+  text-align: left;
+  width: 800px;
 }
