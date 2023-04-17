@@ -1,0 +1,16 @@
+* {
+  background-color: #2a2a2a;
+  color: white;
+  font-family: tahoma, sans-serif;
+}
+
+main {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+#image {
+  margin: 0 -50%;
+}
