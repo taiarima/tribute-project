@@ -21,14 +21,27 @@ main {
   font-size: 20px;
 }
 
-.chinese-quote {
+.chinese-quote-1 {
   font-size: 40px !important;
   font-style: italic;
   width: 1000px !important;
+  font-family: "Ma Shan Zheng", cursive !important;
   margin-left: -80px;
+}
+
+.chinese-quote-2 {
+  font-size: 48px !important;
+  font-style: italic;
+  width: 1000px !important;
+  font-family: "Ma Shan Zheng", cursive !important;
+  margin-left: 220px;
 }
 
 .quote-caption {
   padding-bottom: 40px;
   margin: -40px;
+}
+
+#tribute-link {
+  padding: 20px;
 }
