@@ -16,7 +16,7 @@ main {
 }
 
 #tribute-info p {
-  text-align: left;
+  text-align: justify;
   width: 800px;
   font-size: 20px;
 }
