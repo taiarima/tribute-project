@@ -39,9 +39,14 @@ main {
 
 .quote-caption {
   padding-bottom: 40px;
-  margin: -40px;
+  margin: -30px;
+  font-size: 2rem !important;
 }
 
 #tribute-link {
   padding: 20px;
+}
+
+.cursive {
+  font-family: "Freehand", cursive !important;
 }
